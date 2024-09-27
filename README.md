@@ -1,16 +1,28 @@
-## Hi there 👋
+<div id="user-content-toc" align="center">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi there 👋, I'm Nathan! </h1></summary>
+  </ul>
+</div>
 
-<!--
-**Nhucanada/Nhucanada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**SWE @ 360insights**, Software Engineering Student @ McGill Universty, in Montréal, Canada!
+🌱Interests:
+* Full Stack Development
+* Data Engineering
+* DevOps
+* Infrasturcture + Cloud
+* Machine Learning + Deep Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to contact me regarding my experiences or for any friendly conversation – let's connect!
+ 
+<hr> 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/nathan-hu-85133920b/" target="blank" style="display: inline-block"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.instagram.com/nhucanada/" target="blank" style="display: inline-block"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="instagram" height="50" width="50" /></a>
+</div>

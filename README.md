@@ -6,7 +6,7 @@
 
 
 **SWE @ 360insights**, Software Engineering Student @ McGill Universty, in Montréal, Canada!
-🌱Interests:
+🌱 I'm interested in:
 * Full Stack Development
 * Data Engineering
 * DevOps

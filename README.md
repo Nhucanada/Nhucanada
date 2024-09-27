@@ -10,8 +10,8 @@
 * Full Stack Development
 * Data Engineering
 * DevOps
-* Infrasturcture + Cloud
-* Machine Learning + Deep Learning
+* Infrastructure + Cloud
+* Machine Learning
 
 Feel free to contact me regarding my experiences or for any friendly conversation – let's connect!
  

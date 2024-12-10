@@ -5,7 +5,7 @@
 </div>
 
 
-**SWE @ 360insights**, Software Engineering Student @ McGill Universty, in Montréal, Canada!
+**Incoming DevOps Intern @ Intact**, Software Engineering Student @ McGill Universty, in Montréal, Canada!
 🌱 I'm interested in:
 * Full Stack Development
 * Data Engineering

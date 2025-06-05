@@ -5,12 +5,10 @@
 </div>
 
 
-**Incoming DevOps Intern @ Intact**, Software Engineering Student @ McGill Universty, in Montréal, Canada!
+**SWE Intern @ PointClickCare**, Software Engineering Student @ McGill Universty, in Montréal, Canada!
 🌱 I'm interested in:
 * Full Stack Development
-* Data Engineering
 * DevOps
-* Infrastructure + Cloud
 * Machine Learning
 
 Feel free to contact me regarding my experiences or for any friendly conversation – let's connect!

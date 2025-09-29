@@ -5,7 +5,7 @@
 </div>
 
 
-**SWE Intern @ PointClickCare**, Software Engineering Student @ McGill Universty, in Montréal, Canada!
+CS+AI and Software Engineering Student @ McGill Universty, in Montréal, Canada!
 🌱 I'm interested in:
 * Full Stack Development
 * DevOps

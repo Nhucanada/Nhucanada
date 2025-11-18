@@ -9,7 +9,7 @@ CS+AI and Software Engineering Student @ McGill Universty, in Montréal, Canada!
 🌱 I'm interested in:
 * Full Stack Development
 * DevOps
-* Machine Learning
+* AI & Machine Learning
 
 Feel free to contact me regarding my experiences or for any friendly conversation – let's connect!
  
